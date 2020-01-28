@@ -5,7 +5,7 @@
 package jenkins;
 /**
  *
- * @author dc1617daw2
+ * @author Adria Jara
  */
 import java.io.*;
 public class Jenkins {
